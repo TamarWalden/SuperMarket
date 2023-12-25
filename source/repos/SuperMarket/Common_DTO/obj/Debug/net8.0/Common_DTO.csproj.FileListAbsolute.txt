@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SuperMarket\Common_DTO\bin\Debug\net8.0\Common_DTO.deps.json
+C:\Users\User\source\repos\SuperMarket\Common_DTO\bin\Debug\net8.0\Common_DTO.dll
+C:\Users\User\source\repos\SuperMarket\Common_DTO\bin\Debug\net8.0\Common_DTO.pdb
+C:\Users\User\source\repos\SuperMarket\Common_DTO\obj\Debug\net8.0\Common_DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SuperMarket\Common_DTO\obj\Debug\net8.0\Common_DTO.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SuperMarket\Common_DTO\obj\Debug\net8.0\Common_DTO.AssemblyInfo.cs
+C:\Users\User\source\repos\SuperMarket\Common_DTO\obj\Debug\net8.0\Common_DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SuperMarket\Common_DTO\obj\Debug\net8.0\Common_DTO.dll
+C:\Users\User\source\repos\SuperMarket\Common_DTO\obj\Debug\net8.0\refint\Common_DTO.dll
+C:\Users\User\source\repos\SuperMarket\Common_DTO\obj\Debug\net8.0\Common_DTO.pdb
+C:\Users\User\source\repos\SuperMarket\Common_DTO\obj\Debug\net8.0\ref\Common_DTO.dll

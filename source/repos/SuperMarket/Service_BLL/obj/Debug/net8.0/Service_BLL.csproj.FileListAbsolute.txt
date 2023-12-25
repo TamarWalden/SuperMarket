@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\SuperMarket\Service_BLL\bin\Debug\net8.0\Service_BLL.deps.json
+C:\Users\User\source\repos\SuperMarket\Service_BLL\bin\Debug\net8.0\Service_BLL.dll
+C:\Users\User\source\repos\SuperMarket\Service_BLL\bin\Debug\net8.0\Service_BLL.pdb
+C:\Users\User\source\repos\SuperMarket\Service_BLL\bin\Debug\net8.0\Common_DTO.dll
+C:\Users\User\source\repos\SuperMarket\Service_BLL\bin\Debug\net8.0\Repository_Dal.dll
+C:\Users\User\source\repos\SuperMarket\Service_BLL\bin\Debug\net8.0\Common_DTO.pdb
+C:\Users\User\source\repos\SuperMarket\Service_BLL\bin\Debug\net8.0\Repository_Dal.pdb
+C:\Users\User\source\repos\SuperMarket\Service_BLL\obj\Debug\net8.0\Service_BLL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SuperMarket\Service_BLL\obj\Debug\net8.0\Service_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SuperMarket\Service_BLL\obj\Debug\net8.0\Service_BLL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SuperMarket\Service_BLL\obj\Debug\net8.0\Service_BLL.AssemblyInfo.cs
+C:\Users\User\source\repos\SuperMarket\Service_BLL\obj\Debug\net8.0\Service_BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SuperMarket\Service_BLL\obj\Debug\net8.0\Service_BLL.csproj.CopyComplete
+C:\Users\User\source\repos\SuperMarket\Service_BLL\obj\Debug\net8.0\Service_BLL.dll
+C:\Users\User\source\repos\SuperMarket\Service_BLL\obj\Debug\net8.0\refint\Service_BLL.dll
+C:\Users\User\source\repos\SuperMarket\Service_BLL\obj\Debug\net8.0\Service_BLL.pdb
+C:\Users\User\source\repos\SuperMarket\Service_BLL\obj\Debug\net8.0\ref\Service_BLL.dll

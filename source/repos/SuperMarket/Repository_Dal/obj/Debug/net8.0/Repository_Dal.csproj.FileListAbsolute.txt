@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\SuperMarket\Repository_Dal\bin\Debug\net8.0\Repository_Dal.deps.json
+C:\Users\User\source\repos\SuperMarket\Repository_Dal\bin\Debug\net8.0\Repository_Dal.runtimeconfig.json
+C:\Users\User\source\repos\SuperMarket\Repository_Dal\bin\Debug\net8.0\Repository_Dal.dll
+C:\Users\User\source\repos\SuperMarket\Repository_Dal\bin\Debug\net8.0\Repository_Dal.pdb
+C:\Users\User\source\repos\SuperMarket\Repository_Dal\obj\Debug\net8.0\Repository_Dal.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SuperMarket\Repository_Dal\obj\Debug\net8.0\Repository_Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SuperMarket\Repository_Dal\obj\Debug\net8.0\Repository_Dal.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SuperMarket\Repository_Dal\obj\Debug\net8.0\Repository_Dal.AssemblyInfo.cs
+C:\Users\User\source\repos\SuperMarket\Repository_Dal\obj\Debug\net8.0\Repository_Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SuperMarket\Repository_Dal\obj\Debug\net8.0\Repository_Dal.dll
+C:\Users\User\source\repos\SuperMarket\Repository_Dal\obj\Debug\net8.0\refint\Repository_Dal.dll
+C:\Users\User\source\repos\SuperMarket\Repository_Dal\obj\Debug\net8.0\Repository_Dal.pdb
+C:\Users\User\source\repos\SuperMarket\Repository_Dal\obj\Debug\net8.0\Repository_Dal.genruntimeconfig.cache
+C:\Users\User\source\repos\SuperMarket\Repository_Dal\obj\Debug\net8.0\ref\Repository_Dal.dll
+C:\Users\User\source\repos\SuperMarket\Repository_Dal\bin\Debug\net8.0\Common_DTO.dll
+C:\Users\User\source\repos\SuperMarket\Repository_Dal\bin\Debug\net8.0\Common_DTO.pdb
+C:\Users\User\source\repos\SuperMarket\Repository_Dal\obj\Debug\net8.0\Repository_Dal.csproj.CopyComplete
